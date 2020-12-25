@@ -1,2 +1,2 @@
 # IRIS-IEEE
-Redesign if IRIS
+Redesign of IRIS
