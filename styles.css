@@ -288,11 +288,16 @@ h1 {
   margin-bottom: 20px;
 }
 
+#footer {
+  padding: 3% 0;
+  background-color: #e8f1ff;
+}
+
 .text-center a {
   margin: 0 1.5rem;
 }
 
 .text-center a i {
   text-align: center;
-  color: #e8f1ff;
+  color: #323d42;
 }
