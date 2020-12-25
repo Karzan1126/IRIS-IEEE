@@ -4,7 +4,6 @@ body {
 }
 
 #header {
-  padding: 0.3rem;
   background-image: url(background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -34,6 +33,10 @@ body {
 
 h1 {
   font-size: 5em;
+}
+
+.navnav {
+  background-color: rgba(255, 255, 255, 0.2);
 }
 
 .iris {
